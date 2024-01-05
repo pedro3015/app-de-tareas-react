@@ -5,4 +5,4 @@ Esta creada a partir del siguiente video:
 
 ![Link](https://www.youtube.com/watch?v=6Jfk8ic3KVk)
 
-Agradecimientos para: 1[Estefania Cassingena](https://twitter.com/EstefaniaCassN)
+Agradecimientos para: ![Estefania Cassingena](https://twitter.com/EstefaniaCassN)
